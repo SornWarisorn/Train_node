@@ -11,6 +11,6 @@ os.chdir('/home/vsa01/Desktop/tensorflow1/models/research')
 os.system('python3 os_research.py')
 
 
-
+os.system('cat /home/vsa01/Desktop/Train_node/export.txt')
 
 
