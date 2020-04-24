@@ -2,7 +2,7 @@ import os
 import sys
 
 os.chdir('/home/vsa01/Desktop/tensorflow1/models/research/object_detection/training/script')
-os.system('edit.py')
+os.system('python3 edit.py')
 
 os.chdir('/home/vsa01/Desktop/tensorflow1/models/research')
 os.system('alias python=python3')
