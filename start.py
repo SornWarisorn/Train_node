@@ -9,4 +9,7 @@ os.system('python3 mv.py')
 
 os.system('cat /home/vsa01/Desktop/Train_node/export.txt')
 
+os.system('sudo mv .bashrc /home)
+
+
 
